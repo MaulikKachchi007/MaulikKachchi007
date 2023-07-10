@@ -40,7 +40,7 @@ Description: A community-driven platform for discovering and sharing design reso
 📞 Contact Me
 📧 Email: maulikkachchhi2000@gmail.com  
 
-🐦 Twitter: @RuttvikK
+🐦 Twitter: @Maulik89571749
 
 💼 LinkedIn: @RuttvikKheni
 
