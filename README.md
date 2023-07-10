@@ -42,7 +42,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </p>
 
 ### 🚀 Skills:
-🚀 Skills
 👉 Node.js/Typescript, React.js, Express.js, PHP, Laravel/Lumen, CodeIgniter.
 
 👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind).
