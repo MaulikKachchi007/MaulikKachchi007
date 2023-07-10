@@ -52,17 +52,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 👉 Git, Jira, Trello board, Asana, ClickUp
 
-🌟 Latest Projects
-👉 RoadStr.io
-
-Description: A web application for connecting car enthusiasts. Built using ReactJS/NextJS, Redux, Node.js, Typescript, Express, and MongoDB.
-
-👉 Designed.org
-
-Description: A community-driven platform for discovering and sharing design resources. Built using ReactJS/NextJS, ContextAPI, Node.js, Typescript, Serverless Framework, and Nhost.
-
-I'm interested in working with you in the long term because of my experience in full-stack development. I can think from a user perspective as a designer and I can think as a developer to make a structured project with less load time. I believe I can add real value to the project. Please feel free to reach out to me if you have any questions or want to collaborate on a project.
-
 🤝 Let's work together!
 If you're interested in working with me or have any further questions, please don't hesitate to contact me using the information provided above. I look forward to hearing from you!
 
