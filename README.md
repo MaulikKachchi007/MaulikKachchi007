@@ -46,7 +46,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind).
 
-👉 SQL(Postgres, MySql, MsSql, Planet Scale, Maria DB), NoSQL(MongoDB, DynamoDB).
+👉 SQL(Postgres, MySql, MsSql, Planet Scale, Maria DB), NoSQL(MongoDB).
 
 👉 AWS(ES2, Lambda, S3, APIGateway, Amplify, AppSync, SES, Cognito, CI/CD), GCP(Cloud Functions, Buckets), Docker etc... .
 
