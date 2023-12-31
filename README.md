@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Maulik Kachchhi! <img align="right" src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" height="250" width="300">
+Hi, I'm Maulik Kachchhi! <img align="right" src="[https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)" height="250" width="300">
 I'm a Fullstack Developer with over 4 years of experience in IT.
 
 ### 📫 Like to meet me?
