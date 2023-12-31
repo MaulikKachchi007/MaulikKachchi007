@@ -42,13 +42,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </p>
 
 ### 🚀 Skills:
-👉 Node.js/Typescript, React.js, Express.js, PHP, Laravel/Lumen, CodeIgniter.
+👉 Node.js/Typescript, React.js, Express.js, PHP, Laravel/Lumen.
 
-👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (MUI, Bootstrap, Tailwind).
+👉 CSS (Pure CSS, SASS, LESS), Design Frameworks (Bootstrap, Tailwind).
 
 👉 SQL(Postgres, MySql, MsSql, Planet Scale, Maria DB), NoSQL(MongoDB).
 
-👉 AWS(ES2, Lambda, S3, APIGateway, Amplify, AppSync, SES, Cognito, CI/CD), GCP(Cloud Functions, Buckets), Docker etc... .
+👉 AWS(ES2, Lambda, S3, CI/CD), GCP(Cloud Functions, Buckets), Docker etc... .
 
 👉 Git, Jira, Trello board, Asana, ClickUp
 
